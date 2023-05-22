@@ -1,0 +1,2 @@
+rootProject.name = "DataIndra"
+include ':app'

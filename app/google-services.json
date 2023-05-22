@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "736510044047",
+    "project_id": "dataindra-eeb91",
+    "storage_bucket": "dataindra-eeb91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736510044047:android:a05c0dc290777e15e98dfa",
+        "android_client_info": {
+          "package_name": "com.indra.dataindra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736510044047-roh2l72rq37r47t1kvt8uqi8ek0np8d9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indra.dataindra",
+            "certificate_hash": "354d07173202a09b35ff04f145c49343535ee3ed"
+          }
+        },
+        {
+          "client_id": "736510044047-uvn4nf9hu090l03aiolsjhp0cp1jin4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1_ZLupnxxoPx40wYMLKSSa72YJGoHwxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736510044047-uvn4nf9hu090l03aiolsjhp0cp1jin4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
